@@ -2,8 +2,8 @@
 
 ##Post
 
- - [http://petegoodman.com/labs/css3-transition-blocks/](http://petegoodman.com/labs/css3-transition-blocks/)
+ - [https://f90.co.uk/labs/css3-transition-blocks/](https://f90.co.uk/labs/css3-transition-blocks/)
 
 ## Example
 
- - [http://thegingerbloke.github.io/css3-transition-blocks](http://thegingerbloke.github.io/css3-transition-blocks)
+ - [http://orangespaceman.github.io/css3-transition-blocks](http://orangespaceman.github.io/css3-transition-blocks)
